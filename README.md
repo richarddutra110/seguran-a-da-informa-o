@@ -1,2 +1,2 @@
 # seguranca-da-informacao
-repositório para atividade de "Segurança da Informação"
+repositório para atividades de "Segurança da Informação"
